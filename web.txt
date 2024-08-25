@@ -1,0 +1,57 @@
+if stuck in programing use google or stack overflow 
+code pen for practice
+Html = w3 school devdoc html headingmdn
+devdoc hmy elements bta dy gi 
+<br> tag space k lia use hota ha brake line 
+<hr size="3"> horizontal line line lgny k lia use hota ha (devdocs) py ja k attributes mil jye gy color size shade etc
+jb kch center ma krna ho to <center> tag use kry gy start or end py exp: <center> abc <center>
+<!--comment--> ya tag comment k lia use kia jta ha
+jb hm vs code py new file bny gy too index.html ya name rkhy gy mtlb .html extension ha zarori ha
+<p><p> tag is use for paragraph kch v likhna k lia use hota ha ya
+<i> ya <em> tag use hoty hain atalin k lia 
+<b> onlybold <strong> nehchy line lgana +bold k lia strong
+<ul> tag use for unordered boilt point (.)<li> list
+<ol> usr to order items  (123)
+<ol type="i"> roman i ii iii k lia ya use hoga 
+<ol start="4"> agar start 4 sa krna ho ya jis number sa krna ho wo esy likhy gy
+<img src="" alt=""> image pic lgny ka tag agar net sa lgni to os pic ka adress copy kr dy gy or is ma put kr dy gy 
+<img src="images/Waqar.png.jpg" alt="profile"> agar apny sa lgni to phly folder ma rkhy gy then osk name likhy gy <img src="images/Waqar.png.jpg" alt="profile"> path dy gy 
+<a href=""></a> koi b link lgny k lia use hota ha for exp <a href="https://www.uosahiwal.edu.pk/">Student at uos</a>
+web k folder ma he file bny gy or index ma os file ka adress dy dy gy 
+<table> likh k mdn sa dekh ly td tr thead tbody tfooter ya sb elements isk 
+<table border="1">
+    <tr>
+<th>Dates </th>
+<th>Work</th>
+<th>Dates</th>
+<th>Work</th>
+</tr>
+    <tr>
+<td>2019-2020</td>
+<td>Mayfair Lahore</td>
+<td>2021-2022</td>
+<td>Photographer</td>
+    </tr>
+</table>
+https://youtu.be/uDaMmD3zAUM?si=6QJhA2d1DdxzG3Y8
+
+table ma tr mtlb table ki raw line td table k andr jo data th mtlb table ka head
+emoji k lia press the Windows Logo + ; (semicolon) keys on your keyboard in vs code
+
+<form action="">
+        <label>Your Name</label>
+        <input type="text">
+        <button>Submitt</button>
+    </form>
+ form banany k lia bki form mdn sa b dekh skty hain 
+form input bht sy hain color date checkbox 
+<textarea name="" id="" cols="30" rows="10"></textarea> text kitni line or area k lia 
+
+<form action="mailto:bsit6424@gmail.com" method="post" enctype="text/plain">is line ma action mtlb submit sa jo km krwana ho idr command dy gy
+        <label>Your Name:</label>
+        <input type="text" name="Your Name"><br>
+        <label>Your Email:</label>
+        <input type="email"name="Email" ><br>
+        <label>Your Massage:</label>
+        <textarea name="Your Massage" id="" cols="30" rows="10"></textarea>
+        <input type="submit" name=""><br>
